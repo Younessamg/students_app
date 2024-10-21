@@ -27,7 +27,7 @@ Supprimez les dossiers d'étudiants qui ne sont plus nécessaires.
 ⚙️ Détails Techniques:
 
 •	🔗 Communication Backend:
-Utilise la bibliothèque Volley pour les interactions avec un serveur backend php .
+Utilise la bibliothèque Volley pour les interactions avec un serveur backend php , le lien git de ce code backend est: https://github.com/Younessamg/Students_app_backend.git.
 
 •	🖼️ Gestion des Images:
 Les photos de profil sont affichées avec glide, et les utilisateurs peuvent sélectionner des images depuis la galerie.
