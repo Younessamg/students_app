@@ -44,6 +44,7 @@ L'application utilise divers composants Android, tels que ListView, SearchView, 
 Point d'entrée pour l'affichage des étudiants.
 
 ⚙️ Configuration du Projet:
+
 1.	Assurez-vous d'avoir Android Studio installé.
 2.	Clonez le dépôt ou téléchargez le code source.
 3.	Ouvrez le projet dans Android Studio.
@@ -51,10 +52,12 @@ Point d'entrée pour l'affichage des étudiants.
 5.	Exécutez l'application sur un émulateur ou un appareil physique.
 
 Dépôt GitHub : students-app
+
 📋 Prérequis:
 •	Android Studio 4.0 ou version ultérieure
 •	Android SDK (API 21 ou supérieure)
 •	JDK 8 ou version ultérieure
+
 📦 Dépendances:
 •	Volley : Pour la gestion des requêtes réseau.
 •	Gson : Pour l'analyse de données JSON.
