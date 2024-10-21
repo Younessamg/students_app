@@ -24,21 +24,25 @@ Modifiez les détails d'un étudiant facilement lorsque des informations changen
 •	🗑️ Suppression d'Étudiants
 Supprimez les dossiers d'étudiants qui ne sont plus nécessaires.
 
-⚙️ Détails Techniques
-•	🔗 Communication Backend
+⚙️ Détails Techniques:
+
+•	🔗 Communication Backend:
 Utilise la bibliothèque Volley pour les interactions avec un serveur backend php .
-•	🖼️ Gestion des Images
+
+•	🖼️ Gestion des Images:
 Les photos de profil sont affichées avec glide, et les utilisateurs peuvent sélectionner des images depuis la galerie.
-•	💾 Persistance des Données
+
+•	💾 Persistance des Données:
 Les informations des étudiants sont stockées et récupérées via des appels API REST.
-•	📱 Composants UI
+
+•	📱 Composants UI:
 L'application utilise divers composants Android, tels que ListView, SearchView, AlertDialog.
 
 📱 Activités Principales
-•	ListStudentActivity
+•	ListStudentActivity:
 Point d'entrée pour l'affichage des étudiants.
 
-⚙️ Configuration du Projet
+⚙️ Configuration du Projet:
 1.	Assurez-vous d'avoir Android Studio installé.
 2.	Clonez le dépôt ou téléchargez le code source.
 3.	Ouvrez le projet dans Android Studio.
@@ -46,16 +50,16 @@ Point d'entrée pour l'affichage des étudiants.
 5.	Exécutez l'application sur un émulateur ou un appareil physique.
 
 Dépôt GitHub : students-app
-📋 Prérequis
+📋 Prérequis:
 •	Android Studio 4.0 ou version ultérieure
 •	Android SDK (API 21 ou supérieure)
 •	JDK 8 ou version ultérieure
-📦 Dépendances
+📦 Dépendances:
 •	Volley : Pour la gestion des requêtes réseau.
 •	Gson : Pour l'analyse de données JSON.
 •	Glide : Pour le chargement d'images.
 
-⚠️ Remarque
+⚠️ Remarque:
 Cette application nécessite un serveur backend configuré pour gérer les opérations CRUD sur les données des étudiants. Assurez-vous que votre serveur est correctement configuré et accessible avant d'exécuter l'application.
 
 Vidéo de l'application mobile:
