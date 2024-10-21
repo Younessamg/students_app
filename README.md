@@ -28,14 +28,18 @@ Supprimez les dossiers d'étudiants qui ne sont plus nécessaires.
 
 •	🔗 Communication Backend:
 Utilise la bibliothèque Volley pour les interactions avec un serveur backend php .
+
 •	🖼️ Gestion des Images:
 Les photos de profil sont affichées avec glide, et les utilisateurs peuvent sélectionner des images depuis la galerie.
+
 •	💾 Persistance des Données:
 Les informations des étudiants sont stockées et récupérées via des appels API REST.
+
 •	📱 Composants UI:
 L'application utilise divers composants Android, tels que ListView, SearchView, AlertDialog.
 
-📱 Activités Principales
+📱 Activités Principales:
+
 •	ListStudentActivity:
 Point d'entrée pour l'affichage des étudiants.
 
